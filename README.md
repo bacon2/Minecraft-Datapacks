@@ -1,5 +1,5 @@
 # Minecraft-Datapacks
-Welcome! See the README for help setting up data packs.
+Welcome! Datapacks can make Minecraft more fun. Feel free to use or modify these.
 
 Add datapack to existing world:
 1. Open your minecraft saves folder (https://www.howtogeek.com/207484/how-to-find-your-minecraft-saved-games-folder/)
