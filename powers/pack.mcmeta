@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "To give players elemental strengths and weaknesses, run this command: /tag [PlayerName] add [fire/water/leaf/bird/rot/lightning/cold/golem]"
+  }
+}

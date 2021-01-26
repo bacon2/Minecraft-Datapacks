@@ -1,0 +1,13 @@
+execute if entity @a[tag=fire] run function powers:fire_check
+execute if entity @a[tag=water] run function powers:water_check
+execute if entity @a[tag=leaf] run function powers:leaf_check
+execute if entity @a[tag=bird] run function powers:bird_check
+execute if entity @a[tag=rot] run function powers:rot_check
+execute if entity @a[tag=lightning] run function powers:lightning_check
+execute if entity @a[tag=cold] run function powers:cold_check
+execute if entity @a[tag=golem] run function powers:golem_check
+execute if entity @a[tag=wind] run function powers:wind_check
+execute if entity @a[tag=spider] run function powers:spider_check
+execute if entity @a[tag=cat] run function powers:cat_check
+execute if entity @a[tag=light] run function powers:light_check
+execute if entity @a[tag=dark] run function powers:dark_check

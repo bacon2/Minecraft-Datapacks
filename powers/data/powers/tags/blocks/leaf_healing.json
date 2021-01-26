@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:grass",
+    "minecraft:tall_grass",
+    "minecraft:seagrass",
+    "minecraft:tall_seagrass",
+    "minecraft:kelp",
+    "minecraft:kelp_plant",
+    "minecraft:sugar_cane",
+    "#minecraft:crops",
+    "#minecraft:flowers"
+  ]
+}
