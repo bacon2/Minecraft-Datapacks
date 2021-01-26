@@ -7,6 +7,8 @@ Add datapack to existing world:
 3. Open datapacks folder
 4. Unzip the datapack and copy it into this folder
 
+or instead:
+
 Create a new world with the datapack:
 1. When creating a Minecraft world, click the datapacks button
 2. Click open pack folder
