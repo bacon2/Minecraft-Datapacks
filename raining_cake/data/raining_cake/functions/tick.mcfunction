@@ -1,0 +1,1 @@
+execute at @e[limit=1, sort=random, type=!minecraft:item] run summon minecraft:falling_block ~ ~50 ~ {BlockState:{Name:"minecraft:cake"}, Time:1s}
