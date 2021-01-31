@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:air",
+    "minecraft:bedrock",
+    "minecraft:water",
+    "minecraft:lava",
+    "minecraft:obsidian"
+  ]
+}

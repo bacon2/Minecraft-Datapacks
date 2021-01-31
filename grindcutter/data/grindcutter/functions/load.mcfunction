@@ -1,0 +1,1 @@
+scoreboard objectives add put_stonecutter minecraft.used:minecraft.stonecutter
