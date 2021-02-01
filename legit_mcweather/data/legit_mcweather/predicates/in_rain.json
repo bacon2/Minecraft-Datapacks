@@ -1,0 +1,10 @@
+[
+    {
+        "condition":"minecraft:reference",
+        "name":"powers:in_sunlight"
+    },
+    {
+        "condition":"minecraft:reference",
+        "name":"powers:raining"
+    }
+]
