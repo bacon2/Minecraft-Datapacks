@@ -1,0 +1,26 @@
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[75f, 12f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[276f, 42f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[249f, 80f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[6f, 31f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[242f, -2f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[29f, -33f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[261f, 71f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[21f, 62f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[27f, 2f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[301f, -34f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[334f, -8f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[241f, -25f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[201f, -35f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[358f, 89f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[-19f, -11f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[267f, 11f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[201f, -62f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[308f, -57f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[358f, -87f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[166f, -53f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[33f, -65f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[140f, 38f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[155f, -27f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[256f, 10f]}
+summon minecraft:armor_stand ~ ~ ~ {Tags:["silk_blast", "rotate_me"], Marker:1b, Rotation:[0f, 23f]}
+tag @e[tag=rotate_me] remove rotate_me
